@@ -8,7 +8,7 @@
 
 ## 🔥 About Me  
 
-- 🎓 **Currently:** Master’s student at **ESILV** specializing in **Data Science & AI**  
+- 🎓 **Currently:** Master's student (Engineer's Degree, also known as *Cycle d'Ingénieur* in French) in my final year at **ESILV**, specializing in **Data Science & AI**. 
 - 🏢 **Past Work:** Experience in **credit risk modeling**, **graph mining**, and **recommendation systems**  
 - 🛠️ **Tech Stack:** Python, SQL, TensorFlow, PyTorch, Scikit-learn, Flask, FastAPI, Docker, CI/CD, Neo4j  
 - 📚 **Projects:** NLP-driven **TripAdvisor Recommendation System**, **Real-time Chat Application**, **Graph-based School Donations Analysis**, and more  
