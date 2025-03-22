@@ -24,14 +24,14 @@
 - **Models:** Logistic Regression, **Random Forest, Neural Networks, RoBERTa, Llama 3.2 (LoRA fine-tuning)**  
 - **Deployment:** **Streamlit app** for real-time rating predictions and explainability  
 
-📌 [**Machine Learning for Credit Risk Prediction**](#)  
+📌 **Machine Learning for Credit Risk Prediction** 
 - Developed ML models for **rating & default prediction** of corporate issuers  
 
-📌 [**TripAdvisor Recommendation System (NLP)**](#)  
+📌 **TripAdvisor Recommendation System (NLP)**
 - Implemented **BM25 baseline** & built an **enhanced recommendation model**  
 - Extracted **semantic similarities** from hotel reviews  
 
-📌 [**Real-time Chat App**](#)  
+📌 **Real-time Chat App** 
 - Built using **Flask, Docker, CI/CD pipelines**  
 - Achieved **20/20 at ESILV** for architecture & performance
  
