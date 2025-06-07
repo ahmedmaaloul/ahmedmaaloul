@@ -18,23 +18,42 @@
 
 ## 🚀 Projects & Highlights  
 
-📌 **Rating Prediction from Insurance Reviews (NLP Project)**  
-- **Objective:** Predict **insurer ratings** from customer reviews and extract insights using **NLP techniques**  
-- **Techniques Used:** Text cleaning, **TF-IDF, Word2Vec, LDA (Topic Modeling), Deep Learning**, SHAP analysis  
-- **Models:** Logistic Regression, **Random Forest, Neural Networks, RoBERTa, Llama 3.2 (LoRA fine-tuning)**  
-- **Deployment:** **Streamlit app** for real-time rating predictions and explainability  
+📌 **🔍 CV–Job Offer Matching with LLMs (Internship Project @ Astek, 2025)**  
+- Designed and evaluated hybrid AI systems for **automated candidate-job matching**  
+- Benchmarked **open-source LLMs** (Phi-3, Mistral, DeepSeek, Gemma) under **zero-shot & few-shot** settings  
+- Built pipelines for **justification-aware classification**, using **label-only and label+justification prompting**  
+- Integrated **explainability** using SHAP & ontology-based reasoning (GraphRAG-ready knowledge graph in OWL)  
+- Delivered a **scientific-style evaluation report** and contributed to an in-house R&D framework  
 
-📌 **Machine Learning for Credit Risk Prediction** 
-- Developed ML models for **rating & default prediction** of corporate issuers  
+📌 **📊 Rating Prediction from Insurance Reviews (NLP Project)**  
+- Built a **Streamlit app** to predict customer satisfaction ratings from insurance reviews  
+- Used **RoBERTa**, **Neural Networks**, and classical models (e.g., **Random Forest**, **Logistic Regression**)  
+- Applied **SHAP** for local interpretability and **LDA** for topic modeling   
 
-📌 **TripAdvisor Recommendation System (NLP)**
-- Implemented **BM25 baseline** & built an **enhanced recommendation model**  
-- Extracted **semantic similarities** from hotel reviews  
+📌 **📎 Graph-based School Donation Analytics**  
+- Applied **community detection (Louvain algorithm)** on school-donor networks  
+- Built an interactive dashboard for **visualizing patterns and donor affinities**  
+- Extracted insights to help NGOs understand **geographical and thematic funding gaps**  
 
-📌 **Real-time Chat App** 
-- Built using **Flask, Docker, CI/CD pipelines**  
-- Achieved **20/20 at ESILV** for architecture & performance
- 
+📌 **💬 Real-time Chat App (CI/CD + Docker)**  
+- Architected a production-grade chat application using **Flask**, **Docker**, and **GitHub Actions**  
+- Integrated microservices, containerization, and real-time communication  
+- Scored **20/20** at ESILV for technical design and code quality  
+
+📌 **🏨 TripAdvisor Recommendation System (NLP)**  
+- Built a **BM25-based baseline** and enhanced with **semantic similarity modeling**  
+- Extracted latent features from user reviews and improved **ranked retrieval performance**  
+- Focused on **unsupervised learning**, without using direct labels  
+
+📌 **🚧 Pothole Detection App (CV + CoreML)**  
+- Trained and exported YOLOv5, YOLOv6, and YOLOv8 models to **CoreML** and **TFLite**  
+- Built a real-time iOS app using **Swift** + **Xcode** to detect potholes for road safety  
+- Benchmarked models on **665 labeled images**, used data augmentation and explainability techniques  
+
+📌 **📅 Smart Calendar Assistant (In Progress)**  
+- Designing a web-based personal assistant that auto-schedules tasks based on user availability and travel time  
+- Uses **RATP API**, **AI reasoning**, and real-time **Apple Calendar** integration (Europe-focused MVP)
+
 
 ---
 
