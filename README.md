@@ -45,9 +45,9 @@
 - Extracted latent features from user reviews and improved **ranked retrieval performance**  
 - Focused on **unsupervised learning**, without using direct labels  
 
-📌 **🚧 Pothole Detection App (CV + CoreML)**  
-- Trained and exported YOLOv5, YOLOv6, and YOLOv8 models to **CoreML** and **TFLite**  
-- Built a real-time iOS app using **Swift** + **Xcode** to detect potholes for road safety  
+📌 **🚧 Pothole Detection App (CV + Kotlin)**  
+- Trained and exported YOLOv5, YOLOv6, and YOLOv8 models to **TFLite**  
+- Built a real-time android app using **Kotlin** to detect potholes for road safety  
 - Benchmarked models on **665 labeled images**, used data augmentation and explainability techniques  
 
 📌 **📅 Smart Calendar Assistant (In Progress)**  
