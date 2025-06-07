@@ -46,7 +46,7 @@
 - Focused on **unsupervised learning**, without using direct labels  
 
 📌 **🚧 Pothole Detection App (CV + Kotlin)**  
-- Trained and exported YOLOv5, YOLOv6, and YOLOv8 models to **TFLite**  
+- Trained and exported YOLOv5, YOLOv6,YOLOv8 and YOLOv11 models to **TFLite**  
 - Built a real-time android app using **Kotlin** to detect potholes for road safety  
 - Benchmarked models on **665 labeled images**, used data augmentation and explainability techniques  
 
