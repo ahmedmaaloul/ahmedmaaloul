@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedmaaloul&label=Profile%20views&color=0e75b6&style=flat" alt="profile view count"/>
 </p>
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaaloul&theme=dark)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaaloul&theme=dark" alt="GitHub Streak" />
+  </a>
 </p>
 
 🎓 **Data & AI Engineer | Machine Learning Enthusiast | Software Developer**  
