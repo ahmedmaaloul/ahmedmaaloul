@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Ahmed Maaloul  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ADEF&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Ahmed+Maaloul;ML+Engineer+%7C+AI+Developer+%7C+MLOps+Enthusiast" alt="Typing SVG" />
+</p>
 
 🎓 **Data & AI Engineer | Machine Learning Enthusiast | Software Developer**  
 
@@ -6,7 +8,12 @@
 
 ---
 
-## 🔥 About Me  
+## 🔥 About Me ![🔥](https://raw.githubusercontent.com/ahmedmaaloul/ahmedmaaloul/main/icons/fire.gif)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 
 - 🎓 **Currently:** Master's student (Engineer's Degree, also known as *Cycle d'Ingénieur* in French) in my final year at **ESILV**, specializing in **Data Science & AI**. 
 - 🏢 **Past Work:** Experience in **credit risk modeling**, **graph mining**, and **recommendation systems**  
@@ -87,3 +94,8 @@
 ---
 
 ### 🚀 *"Building AI solutions that matter."*  
+
+
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmaaloul&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedmaaloul&color=blue)
