@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ADEF&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Ahmed+Maaloul;ML+Engineer+%7C+AI+Developer+%7C+MLOps+Enthusiast" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedmaaloul&label=Profile%20views&color=0e75b6&style=flat" alt="profile view count"/>
+</p>
+
+
 🎓 **Data & AI Engineer | Machine Learning Enthusiast | Software Developer**  
 
 🚀 Passionate about AI, Data Science, and Software Engineering, I specialize in **Machine Learning, NLP, CV, Deep Learning, and Backend Development**. Whether it's developing **ML-powered solutions**, optimizing **graph-based algorithms**, or **deploying scalable applications**, I love solving complex problems with data-driven insights.  
@@ -95,7 +100,5 @@
 
 ### 🚀 *"Building AI solutions that matter."*  
 
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaaloul&theme=dark)](https://git.io/streak-stats)
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmaaloul&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedmaaloul&color=blue)
