@@ -1,13 +1,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ADEF&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Ahmed+Maaloul;ML+Engineer+%7C+AI+Developer+%7C+MLOps+Enthusiast" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedmaaloul&label=Profile%20views&color=0e75b6&style=flat" alt="profile view count"/>
 </p>
-
-
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaaloul&theme=dark)](https://git.io/streak-stats)
+</p>
 
 🎓 **Data & AI Engineer | Machine Learning Enthusiast | Software Developer**  
 
