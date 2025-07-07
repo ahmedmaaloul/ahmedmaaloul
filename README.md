@@ -11,11 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/skyline.gif" alt="Ahmed's GitHub Skyline" width="80%">
-</p>
-
-
-<p align="center">
   <strong>👨‍💻 Programming Languages</strong><br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
