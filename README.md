@@ -147,8 +147,8 @@
 
 ## 📫 Let's Connect!  
 
-🌐 **Website/Portfolio:** [ahmedmaaloul.engineer](https://www.ahmedmaaloul.engineer)  
-💼 **LinkedIn:** [in/ahmedmaaloul](https://www.linkedin.com/in/ahmedmaaloul/)
+🌐 **Website/Portfolio:** [ahmedmaaloul.engineer](https://www.ahmedmaaloul.engineer) \\
+💼 **LinkedIn:** [in/ahmedmaaloul](https://www.linkedin.com/in/ahmedmaaloul/) \\
 📧 **Email:** ahmed.maaloul@myyahoo.com  
 
 💡 Always open to **collaborations, research, and new opportunities**! 🚀  
