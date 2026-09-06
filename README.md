@@ -1,6 +1,4 @@
-# Ahmed Maaloul
-
-AI and Software Engineer in Paris, France.
+<img src="./assets/profile-header.svg" alt="Ahmed Maaloul, AI and Software Engineer" width="100%" />
 
 [LinkedIn](https://www.linkedin.com/in/ahmedmaaloul/) · [Email](mailto:ahmed.maaloul@proton.me)
 
