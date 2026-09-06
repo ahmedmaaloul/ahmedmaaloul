@@ -1,4 +1,6 @@
-<img src="./assets/profile-header.svg" alt="Ahmed Maaloul, AI and Software Engineer" width="100%" />
+# Ahmed Maaloul
+
+AI and Software Engineer
 
 [LinkedIn](https://www.linkedin.com/in/ahmedmaaloul/) · [Email](mailto:ahmed.maaloul@proton.me)
 
@@ -43,17 +45,3 @@ I am also learning German as part of my longer term goal of working in a Europea
 
 - [linkedin.com/in/ahmedmaaloul](https://www.linkedin.com/in/ahmedmaaloul/)
 - [ahmed.maaloul@proton.me](mailto:ahmed.maaloul@proton.me)
-
-## Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ahmedmaaloul/ahmedmaaloul/raw/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ahmedmaaloul/ahmedmaaloul/raw/refs/heads/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake moving through Ahmed Maaloul's GitHub contribution graph" src="https://github.com/ahmedmaaloul/ahmedmaaloul/raw/refs/heads/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<sub>Generated from my public GitHub contribution graph.</sub>
-
-</div>
