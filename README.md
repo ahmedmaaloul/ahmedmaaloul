@@ -1,158 +1,63 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ADEF&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Ahmed+Maaloul;ML+Engineer+%7C+AI+Developer+%7C+MLOps+Enthusiast" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedmaaloul&label=Profile%20views&color=0e75b6&style=flat" alt="profile view count"/>
-</p>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaaloul&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>👨‍💻 Programming Languages</strong><br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
+<img src="./assets/profile-header.svg" alt="Ahmed Maaloul, AI and Software Engineer" width="100%" />
 
-<p align="center">
-  <strong>🧠 Machine Learning / AI / NLP</strong><br><br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SHAP-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LDA%20Topic%20Modeling-blueviolet?style=for-the-badge"/>
-</p>
+Paris, France · [LinkedIn](https://www.linkedin.com/in/ahmedmaaloul/) · [Email](mailto:ahmed.maaloul@proton.me)
 
-<p align="center">
-  <strong>🌐 Web & Backend Development</strong><br><br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+</div>
 
-<p align="center">
-  <strong>⚙️ DevOps & Tools</strong><br><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-343434?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
+## About me
 
-<p align="center">
-  <strong>🗃️ Databases & Data Engineering</strong><br><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+I am an AI Engineer at **Heroiks**, where I work on enterprise retrieval pipelines, agentic workflows, and internal AI assistants. My work spans document ingestion, retrieval quality, APIs, cloud deployment, observability, and cost monitoring.
 
-<p align="center">
-  <strong>📊 Visualization, Dashboards & UI</strong><br><br>
-  <img src="https://img.shields.io/badge/Matplotlib-4064A1?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C61B6?style=for-the-badge"/>
-</p>
+I hold an engineering degree from **ESILV**, with a major in Data and Artificial Intelligence.
 
-<p align="center">
-  <strong>📚 Currently Exploring / Learning</strong><br><br>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLOps-FF8C00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/German%20🇩🇪-black?style=for-the-badge&logo=duolingo&logoColor=white"/>
-</p>
+My interests extend beyond generative AI. I use public projects to explore ML infrastructure, backend and distributed systems, industrial software, edge AI, and systems programming. I prefer building small, testable systems and documenting what actually works, including their limits.
 
+## Selected projects
 
-🎓 **Data & AI Engineer | Machine Learning Enthusiast | Software Developer**  
+| Project | What it demonstrates | Technologies |
+| --- | --- | --- |
+| [Synapse](https://github.com/ahmedmaaloul/synapse) | Turns documents into a Neo4j knowledge graph and supports hybrid, graph expanded retrieval through a local demo. | Python, FastAPI, Next.js, Neo4j, Docker |
+| [Industrie 4.0 Predictive Maintenance Hub](https://github.com/ahmedmaaloul/industrie-4.0-predictive-maintenance-hub) | A prototype pipeline from a simulated CNC machine to real time processing and time series storage. | Python, Java, OPC UA, Kafka, Flink, InfluxDB |
+| [GoDock](https://github.com/ahmedmaaloul/GoDock) | A keyboard driven terminal interface for viewing and controlling local Docker containers. | Go, Bubble Tea, Docker API |
+| [NanoPredict](https://github.com/ahmedmaaloul/nano_predict) | An experimental workflow that trains a small model in Python and runs inference in a lightweight C++17 engine. | C++17, Python, scikit learn |
+| [AI Chaos Monkey](https://github.com/ahmedmaaloul/ai-ops-agent) | A local AIOps demo that enriches Prometheus alerts while controlled failures exercise the monitoring path. | Kubernetes, Prometheus, Grafana, FastAPI |
 
-🚀 Passionate about AI, Data Science, and Software Engineering, I specialize in **Machine Learning, NLP, CV, Deep Learning, and Backend Development**. Whether it's developing **ML-powered solutions**, optimizing **graph-based algorithms**, or **deploying scalable applications**, I love solving complex problems with data-driven insights.  
+## Experience snapshot
 
----
+- **AI Engineer, Heroiks:** enterprise RAG, AI agents, workflow automation, GCP deployment, retrieval quality, and observability.
+- **AI Engineer Intern, Astek:** hybrid CV and job matching, open source LLM evaluation, ontologies, Neo4j, and GraphRAG.
+- **Data Scientist, Crédit Mutuel AM via ESILV:** credit risk data pipelines and predictive modeling with temporal evaluation.
+- **Mobile Developer, Qovoltis:** Flutter application for EV charging station installers, covering operational workflows from pairing to firmware updates.
 
-## 🔥 About Me ![🔥](https://raw.githubusercontent.com/ahmedmaaloul/ahmedmaaloul/main/icons/fire.gif)
+## Tools I have used
 
+**Current and recent roles:** Python, FastAPI, Docker, GCP, Vertex AI, PostgreSQL, pgvector, LlamaIndex, LangGraph, Neo4j, XGBoost, and Flutter.
 
-- 🎓 **Currently:** Master's student (Engineer's Degree, also known as *Cycle d'Ingénieur* in French) in my final year at **ESILV**, specializing in **Data Science & AI**. 
-- 🏢 **Past Work:** Experience in **credit risk modeling**, **graph mining**, and **recommendation systems**  
-- 🛠️ **Tech Stack:** Python, SQL, TensorFlow, PyTorch, Scikit-learn, Flask, FastAPI, Docker, CI/CD, Neo4j  
-- 📚 **Projects:** NLP-driven **TripAdvisor Recommendation System**, **Real-time Chat Application**, **Graph-based School Donations Analysis**, and more  
-- 🎯 **Interests:** AI for **Cybersecurity, Finance, and Healthcare**, Edge AI, and Scalable ML Systems  
+**Public project work:** Go, C++17, Java, Next.js, Kubernetes, Kafka, Flink, Prometheus, Grafana, OPC UA, and InfluxDB.
 
----
+## What I am working toward
 
-## 🚀 Projects & Highlights  
+I want to grow at the intersection of **AI systems, software engineering, and industrial technology**. That means learning through implementation: reading research, building reproducible experiments, testing infrastructure, and publishing evidence instead of relying on claims.
 
-📌 **🔍 CV–Job Offer Matching with LLMs (Internship Project @ Astek, 2025)**  
-- Designed and evaluated hybrid AI systems for **automated candidate-job matching**  
-- Benchmarked **open-source LLMs** (Phi-3, Mistral, DeepSeek, Gemma) under **zero-shot & few-shot** settings  
-- Built pipelines for **justification-aware classification**, using **label-only and label+justification prompting**  
-- Integrated **explainability** using SHAP & ontology-based reasoning (GraphRAG-ready knowledge graph in OWL)  
-- Delivered a **scientific-style evaluation report** and contributed to an in-house R&D framework  
+I am also learning German as part of my longer term goal of working in a European industrial and engineering environment.
 
-📌 **📊 Rating Prediction from Insurance Reviews (NLP Project)**  
-- Built a **Streamlit app** to predict customer satisfaction ratings from insurance reviews  
-- Used **RoBERTa**, **Neural Networks**, and classical models (e.g., **Random Forest**, **Logistic Regression**)  
-- Applied **SHAP** for local interpretability and **LDA** for topic modeling   
+## Contact
 
-📌 **📎 Graph-based School Donation Analytics**  
-- Applied **community detection (Louvain algorithm)** on school-donor networks  
-- Built an interactive dashboard for **visualizing patterns and donor affinities**  
-- Extracted insights to help NGOs understand **geographical and thematic funding gaps**  
+- [linkedin.com/in/ahmedmaaloul](https://www.linkedin.com/in/ahmedmaaloul/)
+- [ahmed.maaloul@proton.me](mailto:ahmed.maaloul@proton.me)
 
-📌 **💬 Real-time Chat App (CI/CD + Docker)**  
-- Architected a production-grade chat application using **Flask**, **Docker**, and **GitHub Actions**  
-- Integrated microservices, containerization, and real-time communication  
-- Scored **20/20** at ESILV for technical design and code quality  
+## Contribution snake
 
-📌 **🏨 TripAdvisor Recommendation System (NLP)**  
-- Built a **BM25-based baseline** and enhanced with **semantic similarity modeling**  
-- Extracted latent features from user reviews and improved **ranked retrieval performance**  
-- Focused on **unsupervised learning**, without using direct labels  
+<div align="center">
 
-📌 **🚧 Pothole Detection App (CV + Kotlin)**  
-- Trained and exported YOLOv5, YOLOv6,YOLOv8 and YOLOv11 models to **TFLite**  
-- Built a real-time android app using **Kotlin** to detect potholes for road safety  
-- Benchmarked models on **665 labeled images**, used data augmentation and explainability techniques  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedmaaloul/ahmedmaaloul/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedmaaloul/ahmedmaaloul/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake moving through Ahmed Maaloul's GitHub contribution graph" src="https://raw.githubusercontent.com/ahmedmaaloul/ahmedmaaloul/output/github-contribution-grid-snake.svg" />
+</picture>
 
-📌 **📅 Smart Calendar Assistant (In Progress)**  
-- Designing a web-based personal assistant that auto-schedules tasks based on user availability and travel time  
-- Uses **RATP API**, **AI reasoning**, and real-time **Apple Calendar** integration (Europe-focused MVP)
+<sub>Generated from my public GitHub contribution graph.</sub>
 
-
----
-
-## 🛠️ Skills  
-
-💡 **Machine Learning & AI**  
-- Supervised & Unsupervised Learning  
-- Explainable AI & Model Interpretability  
-- Deep Learning (CNNs, RNNs, Transformers)  
-
-💻 **Development & Engineering**  
-- Backend: **Flask, FastAPI, Node.js**  
-- Databases: **SQL, MongoDB, Neo4j**  
-- DevOps: **Docker, CI/CD, GitHub Actions**  
-
-📊 **Data Science & Analytics**  
-- **Graph Mining & Network Analysis**  
-- **Natural Language Processing (NLP)**  
-- **Recommender Systems & Ranking Algorithms**  
-
----
-
-## 📫 Let's Connect!  
-
-🌐 **Website/Portfolio:** [ahmedmaaloul.engineer](https://www.ahmedmaaloul.engineer) <br/>
-💼 **LinkedIn:** [in/ahmedmaaloul](https://www.linkedin.com/in/ahmedmaaloul/) <br/>
-📧 **Email:** ahmed.maaloul@myyahoo.com  
-
-💡 Always open to **collaborations, research, and new opportunities**! 🚀  
-
----
-
-### 🚀 *"Building AI solutions that matter."*  
+</div>
