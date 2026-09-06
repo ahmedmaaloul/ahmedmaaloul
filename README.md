@@ -53,9 +53,9 @@ I am also learning German as part of my longer term goal of working in a Europea
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedmaaloul/ahmedmaaloul/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedmaaloul/ahmedmaaloul/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake moving through Ahmed Maaloul's GitHub contribution graph" src="https://raw.githubusercontent.com/ahmedmaaloul/ahmedmaaloul/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ahmedmaaloul/ahmedmaaloul/raw/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ahmedmaaloul/ahmedmaaloul/raw/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake moving through Ahmed Maaloul's GitHub contribution graph" src="https://github.com/ahmedmaaloul/ahmedmaaloul/raw/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <sub>Generated from my public GitHub contribution graph.</sub>
