@@ -1,10 +1,8 @@
-<div align="center">
+# Ahmed Maaloul
 
-<img src="./assets/profile-header.svg" alt="Ahmed Maaloul, AI and Software Engineer" width="100%" />
+AI and Software Engineer in Paris, France.
 
-Paris, France · [LinkedIn](https://www.linkedin.com/in/ahmedmaaloul/) · [Email](mailto:ahmed.maaloul@proton.me)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/ahmedmaaloul/) · [Email](mailto:ahmed.maaloul@proton.me)
 
 ## About me
 
